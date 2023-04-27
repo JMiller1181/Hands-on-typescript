@@ -1,0 +1,23 @@
+{
+  "name": "hands-on-typescript",
+  "version": "1.0.0",
+  "description": "hands on typescript assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMiller1181/Hands-on-typescript.git"
+  },
+  "author": "Jacob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMiller1181/Hands-on-typescript/issues"
+  },
+  "homepage": "https://github.com/JMiller1181/Hands-on-typescript#readme",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
